@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/vitaly-maximov/JavaScript#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
   }
 }
