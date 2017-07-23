@@ -1,0 +1,26 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Learning JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitaly-maximov/JavaScript.git"
+  },
+  "keywords": [
+    "javascript",
+    "learning"
+  ],
+  "author": "Vitalii Maksimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitaly-maximov/JavaScript/issues"
+  },
+  "homepage": "https://github.com/vitaly-maximov/JavaScript#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
